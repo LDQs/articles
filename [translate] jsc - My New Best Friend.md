@@ -1,6 +1,6 @@
 # jsc: 我的新朋友
 
-原文链接：https://furbo.org/2021/08/25/jsc-my-new-best-friend/
+> 原文链接：https://furbo.org/2021/08/25/jsc-my-new-best-friend/
 
 我的一个[朋友](https://twitter.com/danielpunkass)最近向我推荐了一个隐藏的很好的命令行工具。在 Safari 和苹果产品的其他部分使用的前端框架中，有一个工具叫做 `jsc`。它是 JavaScript 的命令行界面，使用和系统其它部分相同的代码。
 
